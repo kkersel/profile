@@ -1,19 +1,11 @@
 .Block {
     display: flex;
-    align-items: center;
-    margin-top: 100px;
-}
-
-.Illustration {
-    margin: 100px;
+    justify-content: center;
 }
 
 .Block_Wrapper {
     /*display: flex;*/
     /*align-items: center;*/
-}
-.Left {
-    margin-bottom: 40px;
 }
 
 .ttt {
@@ -21,9 +13,4 @@
     font-weight: Bold;
     font-size: 100px;
     color: #1f1f1f;
-}
-
-.WrapperForCards {
-    margin-top: 100px;
-    margin-bottom: 150px;
 }
